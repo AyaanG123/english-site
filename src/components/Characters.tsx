@@ -3,22 +3,22 @@ function Characters() {
     {
       name: 'Rachel Chu',
       description:
-        'Rachel is an accomplished economics professor at New York University who has built her life on independence, intelligence, and hard work. Raised by a single mother in California, Rachel is grounded and practical, with little awareness of the extreme wealth that exists in Asian elite circles. When she travels to Singapore with Nick, she finds herself navigating a world completely foreign to her—one where family lineage and social status matter more than personal achievement. Despite facing intense scrutiny and opposition from Nick\'s family, Rachel remains true to her values and dignity, proving that strength of character can withstand even the most daunting social pressures.',
+        'Rachel Chu is an accomplished economics professor at New York University, who has structured most of her life on her independence, knowledge, and her hard working ethics. Raised by a single mother in California, Rachel is down to earth and resourceful, but having little knowledge of the social and wealth standards she soon gets pulled into in Singapore. When she travels there with Nick, she is forced to navigate through a world where her family and status matter more than her own knowledge and achievements. Throughout the book, despite facing backlash and scrutiny from Nick’s family, she remains true to herself and proves herself worthy of taking on even the most daunting social pressure.',
     },
     {
       name: 'Nick Young',
       description:
-        'Nicholas Young is a charming and intelligent history professor at New York University who has deliberately downplayed his family\'s immense wealth and social prominence. As the heir to one of Singapore\'s oldest and most powerful families, Nick grew up surrounded by luxury but chose to build his own life away from the family spotlight. He is kind-hearted, thoughtful, and deeply in love with Rachel, though he underestimates the challenges his family will present to their relationship. Nick finds himself torn between his love for Rachel and the weight of family expectations, ultimately having to decide what matters most to him.',
+        'Nicholas Young is an intelligent and charismatic history professor at New York University. As the heir to one of Singapore’s richest and most powerful families, he grew up surrounded by luxury and material things. However, he chose to live his life away from the spotlight. He often downplay’s his family\'s immense wealth, especially to his girlfriend Rachel. And although kind-hearted and thoughtful, he severely underestimates the challenges that introducing Rachel to his family will present to their relationship. In the novel, he constantly finds himself torn between the weight of his family values and his love for Rachel. He eventually has to decide what truly matters to him.',
     },
     {
       name: 'Eleanor Young',
       description:
-        'Eleanor Sung Young is Nick\'s mother and the formidable matriarch who fiercely guards her family\'s reputation and legacy. Born into a prominent Taiwanese family, Eleanor married into the Young dynasty and has spent her life upholding its traditions and standards. She is elegant, calculating, and deeply protective of her son\'s future, believing that Nick should marry someone from their social circle who understands the responsibilities that come with the Young name. Eleanor sees Rachel as an outsider who lacks the proper background and breeding, and she employs subtle but powerful tactics to make Rachel feel unwelcome. Despite her cold exterior, Eleanor is driven by genuine love for her family and a fierce desire to preserve what generations have built.',
+        'Eleanor Sung Young is Nick’s mother, and the matriarch of the Young family. Born into a Taiwanese family, she married into the Young dynasty and has since spent her life upholding the family\'s status and standards. She is smart, elegant, and very protective of her son’s future, driving her opinion that Nick should marry someone from their social circle that understands the responsibilities that come with marrying into a powerful family. Eleanor views Rachel as an outsider who lacks the proper background and skills needed to maintain the Young name. Throughout Rachel’s visit, she uses subtle, but impressive tactics to make Rachel feel unwelcome. Despite her neutral appearance, she is driven by a love for her family and her desire to preserve the Young name.',
     },
     {
       name: 'Astrid Leong',
       description:
-        'Astrid Leong is Nick\'s glamorous cousin, widely admired as one of the most beautiful and sophisticated women in Singapore\'s elite society. Born into the incredibly wealthy Leong family, Astrid possesses impeccable taste and an effortless elegance that makes her a fashion icon and social darling. However, beneath her perfect exterior lies a troubled marriage to Michael Teo, a self-made tech entrepreneur who struggles with feelings of inadequacy in the face of his wife\'s enormous wealth. Astrid finds herself constantly downplaying her success and hiding her purchases to protect her husband\'s ego, revealing the complex challenges that come with extreme wealth disparities in relationships. She is kind to Rachel and becomes a supportive figure who understands the difficulties of navigating high society.',
+        'Astrid Leong is Nick’s cousin, who is widely admired as one of the most beautiful women among Singapore’s elite. Born into the wealthy Leon family, Astrid possesses an effortless elegance, as well as sophisticated fashion taste, making her a fashion icon and socialite. However, beneath the exterior beauty lies a shaky marriage to Michael Teo, a tech entrepreneur who struggles with his wife’s immense wealth and status. Astrid often downplay’s her wealth and hides her purchases to protect her husband’s ego, revealing the effort and issues that come with a wealth gap in relationships. She is very close and down to earth with both Rachel and Nick, and as a result she becomes a support figure to Rachel, helping her navigate Singapore’s high society.',
     },
   ];
 
@@ -26,7 +26,7 @@ function Characters() {
     <section className="section characters-section">
       <h2 className="section-title">Main Characters</h2>
       <p className="section-intro">
-        Meet the key players in this story of love, family, and fortune
+        Meet the Characters
       </p>
 
       <div className="characters-grid">

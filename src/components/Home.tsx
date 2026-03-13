@@ -5,20 +5,20 @@ function Home() {
 
   const quotes = [
     {
-      text: "Money can't buy you class, but it can buy you a penthouse with a view.",
-      author: "Eleanor Young",
+      text: "Remember, every treasure comes with a price.",
+      author: "Kevin Kwan (Author)",
     },
     {
-      text: "This isn't about money. It's about family, honor, and reputation.",
-      author: "Eleanor Young",
+      text: "Just because some people actually work for their money doesn’t mean they are beneath you.",
+      author: "Kevin Kwan (Author)",
     },
     {
-      text: "I came to Singapore thinking I was coming to meet his family. I had no idea I was stepping into a different world entirely.",
+      text: "A great time! Although tonight’s been a bit . . . overwhelming.",
       author: "Rachel Chu",
     },
     {
-      text: "It doesn't matter how accomplished you are or how much you've achieved—if you're not born into the right family, you'll always be an outsider.",
-      author: "Astrid Leong",
+      text: "You see, your reputation precedes you.",
+      author: "Oliver T'sien",
     },
   ];
 
@@ -33,9 +33,9 @@ function Home() {
   return (
     <section className="section home-section">
       <div className="hero">
-        <h2 className="section-title">Welcome to the World of Crazy Rich Asians</h2>
+        <h2 className="section-title">Crazy Rich Asians</h2>
         <p className="hero-subtitle">
-          Exploring Kevin Kwan's captivating novel about love, wealth, and family
+          Exploring Kevin Kwan's novel about love, wealth, and family
         </p>
       </div>
 
@@ -64,30 +64,28 @@ function Home() {
       <div className="content-card">
         <h3>About the Novel</h3>
         <p>
-          <em>Crazy Rich Asians</em> is a contemporary novel by Kevin Kwan that follows the story
-          of Rachel Chu, an American-born Chinese economics professor from New York, and her boyfriend
-          Nick Young. When Rachel accompanies Nick to Singapore for his best friend's wedding, she
-          discovers that Nick comes from one of the wealthiest and most prominent families in Asia—a
-          fact he had kept remarkably understated.
+          <em>Crazy Rich Asians</em> is a novel by Kevin Kwan that follows the story
+          of Rachel Chu, an American-Chinese economics professor at NYU, and her boyfriend
+          Nick Young. When Rachel attends Nick's best friend's wedding in Singapore, she 
+          discovers something that Nick has kept secret for the duration of their relationship.
+           Nick is from one of the wealthiest families in Asia. 
         </p>
         <p>
-          Upon arrival in Singapore, Rachel is thrust into a world of unimaginable luxury and excess,
-          where private jets, lavish estates, and exclusive social gatherings are the norm. She quickly
-          realizes that Nick's family, particularly his formidable mother Eleanor Young, has very specific
-          expectations about who belongs in their elite circle—and Rachel, despite her accomplishments,
-          doesn't quite fit the mold.
+          Rachel is thrown into a world of lavish estates, wealth, and high-class lifestyles. She quickly
+          realizes that Nick's family, especially his stubborn mother Eleanor Young, has very specific
+          expectations about who belongs in their elite circle, and Rachel, despite her academic accomplishments,
+          doesn't quite fit in with them.
         </p>
         <p>
-          The novel masterfully explores themes of wealth and social class, family expectations and
-          reputation, and the complex dynamics of cultural identity. Through sharp wit and vivid
-          storytelling, Kwan presents a fascinating glimpse into the lives of Asia's ultra-wealthy
-          elite while examining universal questions about love, belonging, and what it means to stay
+          The novel explores themes of wealth and social class, family expectations and
+          reputation, and the complex understanding of cultural identity. Through imagery and compelling
+          storytelling, Kwan gives the reader a fascinating glimpse into the lives of Asia's wealthy and 
+          elite while addressing questions about love, belonging, and what it means to stay
           true to oneself.
         </p>
         <p>
-          Published in 2013, <em>Crazy Rich Asians</em> became a cultural phenomenon and launched
-          a trilogy that continues to captivate readers worldwide with its blend of romance, humor,
-          and social commentary.
+          Published in 2013, <em>Crazy Rich Asians</em> eventually led to
+          a trilogy that even had a film adaptation in 2018.
         </p>
       </div>
     </section>

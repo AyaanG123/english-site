@@ -4,9 +4,7 @@ import Navigation from './components/Navigation';
 import Home from './components/Home';
 import Characters from './components/Characters';
 import Themes from './components/Themes';
-import Singapore from './components/Singapore';
 import Adaptation from './components/Adaptation';
-import Sources from './components/Sources';
 
 function App() {
   const [activeSection, setActiveSection] = useState('home');
@@ -18,12 +16,10 @@ function App() {
         {activeSection === 'home' && <Home />}
         {activeSection === 'characters' && <Characters />}
         {activeSection === 'themes' && <Themes />}
-        {activeSection === 'singapore' && <Singapore />}
         {activeSection === 'adaptation' && <Adaptation />}
-        {activeSection === 'sources' && <Sources />}
       </main>
       <footer className="footer">
-        <p>&copy; 2024 Crazy Rich Asians Fan Site. An educational resource for book enthusiasts.</p>
+        <p>&copy; Ayaan Gill</p>
       </footer>
     </div>
   );

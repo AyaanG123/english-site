@@ -8,9 +8,7 @@ function Navigation({ activeSection, setActiveSection }: NavigationProps) {
     { id: 'home', label: 'Home' },
     { id: 'characters', label: 'Characters' },
     { id: 'themes', label: 'Themes' },
-    { id: 'singapore', label: 'Singapore' },
     { id: 'adaptation', label: 'Film Adaptation' },
-    { id: 'sources', label: 'Sources' },
   ];
 
   return (
